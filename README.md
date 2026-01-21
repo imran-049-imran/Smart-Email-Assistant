@@ -171,8 +171,3 @@ Response
   "generatedEmail": "I hope this message finds you well..."
 }
 
-
-
-Built responsive UI using React and Tailwind CSS
-
-👉 Next Steps (Tell Me What You Want)
